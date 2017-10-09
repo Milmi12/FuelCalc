@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Fuel Calc</string>
+    <string name="Fuel" translatable="false">00.0</string>
+    <string name="remain_fuel" translatable="false">Remaining Fuel:</string>
+    <string name="ramp_fuel" translatable="false">Ramp Fuel:</string>
+    <string name="uplift" translatable="false">Uplift:</string>
+    <string name="calc_liters" translatable="false">Calculated Liters:</string>
+    <string name="lbs" translatable="false">lbs</string>
+    <string name="ltr" translatable="false">ltr</string>
+</resources>
